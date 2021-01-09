@@ -1,2 +1,3 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Bullets & Walls
+Prototype on checking whether the thickness of the wall is appropriate.
+Built using p5.js & VS.
